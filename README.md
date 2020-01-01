@@ -3,8 +3,7 @@
 PMIS - Personal Management Information System
 =============================================
 
-Employee Management Software in PHP MySQL with children,
-training,salary,education,retirement,address,contact no,experience,job history 
+Employee Management Software in PHP MySQL with children,training,salary,education,retirement,address,contact no,experience,job history 
 
 
 
