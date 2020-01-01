@@ -1,0 +1,1 @@
+SELECT a.personnel_info_id,max(a.end_date) as ed FROM `training` a GROUP BY a.personnel_info_id HAVING ed < DATE_SUB(NOW(), INTERVAL 3 YEAR)
